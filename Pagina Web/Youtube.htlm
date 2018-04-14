@@ -1,0 +1,102 @@
+<html>
+<head>
+<title>Youtube - Web </title>
+<style type="text/css">
+
+* {
+padding:0px;
+magin:0px;
+}
+
+#header {
+margin:auto;
+width:256px;
+font-famili:Grobold;
+}
+
+ul, ol {
+list-style:none;
+}
+
+.nav li a {
+background-color:#000;
+color:#fff;
+text-decoration:none;
+padding:10px 15px;
+display:block;
+}
+
+.nav li a:hover {
+background-color:#0496dd;
+}
+
+.nav > li {
+float:left;
+}
+
+.nav li ul {
+display:none;
+position:absolute;
+min-width:250px;
+}
+
+.nav li:hover > ul {
+display:block;
+}
+
+</style>
+
+<link rel="icon" type="image/ico" href="Logos/Logo.ico">
+</link>
+</head>
+
+<body background="Fondo2.jpg">
+<center><img src="Foto2.jpg"></center>
+
+<div id="header">
+
+<ul class="nav">
+<li><a href="Inicio.htlm">Inicio</a></li>
+
+<li><a href="">Acerca de</a>
+<ul>
+<li><a href="El Canal.htlm">El Canal</a></li>
+<li><a href="La informacion Reciente.htlm">La Informacion Reciente</a></li>
+<li><a href="Con que Grabro.htlm">¿Con que grabo?</a></li>
+</ul>
+</li>
+
+<li><a href="">Contactos</a>
+<ul>
+<li><a href="Gmail.htlm">Gmail</a></li>
+<li><a href="Youtube.htlm">Youtube</a></li>
+<li><a href="">Proximamente</a></li>
+</ul>
+</li>
+
+</div>
+
+<link rel="stylesheet" href="fuentes.css">
+<br/>
+<br/>
+<br/>
+<h1><font color="#00496d"><center><td>¡YOUTUBE!</td></center></h1></font>
+
+<h2><center><br/>Hola mu buenas gente de youtube, bueno este ba hacer unos de mis conctactos, youtube,<br/>
+y ¿como usariamos este conctato?, lo usaria mos de la siguente fomar primero ustedes deben suscribirse para <br/>
+hablar por los comentarios de que tema o una dudá sobre el video y yo respondere, para lo que no estan suscritos no,<br/> 
+respondere pero si es muy importante lo are.<br/></center></h2>
+<br/>
+<br/>
+<center><a class="button" href="https://www.youtube.com/channel/UCuRobp1BUD6C0vG1wWqzTSQ?view_as=subscriber">Ir al canal</a></center>
+<br/>
+<br/>
+<center><font color="#00496d">
+Copyright 2018 Mandame un mesaje via 
+<a href="mailto:https://www.google.com/gmail/">Gmail</a> a gokuhd124@gmail.com
+</ceneter></font>
+
+
+
+</body>
+</htlm> 

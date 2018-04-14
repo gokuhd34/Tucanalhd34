@@ -1,0 +1,97 @@
+<html>
+<head>
+<title>Canal - Web</title>
+<style type="text/css">
+
+* {
+padding:0px;
+magin:0px;
+}
+
+#header {
+margin:auto;
+width:256px;
+font-famili:Grobold;
+}
+
+ul, ol {
+list-style:none;
+}
+
+.nav li a {
+background-color:#000;
+color:#fff;
+text-decoration:none;
+padding:10px 15px;
+display:block;
+}
+
+.nav li a:hover {
+background-color:#0496dd;
+}
+
+.nav > li {
+float:left;
+}
+
+.nav li ul {
+display:none;
+position:absolute;
+min-width:250px;
+}
+
+.nav li:hover > ul {
+display:block;
+}
+
+</style>
+
+<link rel="icon" type="image/ico" href="Logos/Logo.ico">
+</link>
+</head>
+
+<body background="Fondo4.jpg">
+<center><img src="Foto4.jpg"></center>
+
+<div id="header">
+
+<ul class="nav">
+<li><a href="Inicio.htlm">Inicio</a></li>
+
+<li><a href="">Acerca de</a>
+<ul>
+<li><a href="El Canal.htlm">El Canal</a></li>
+<li><a href="La informacion Reciente.htlm">La Informacion Reciente</a></li>
+<li><a href="Con que Grabro.htlm">¿Con que grabo?</a></li>
+</ul>
+</li>
+
+<li><a href="">Contactos</a>
+<ul>
+<li><a href="Gmail.htlm">Gmail</a></li>
+<li><a href="Youtube.htlm">Youtube</a></li>
+<li><a href="">Proximamente</a></li>
+</ul>
+</li>
+
+</div>
+
+<link rel="stylesheet" href="fuentes.css">
+<br/>
+<br/>
+<br/>
+<br/>
+<h1><font color="#0496dd"><center><td>¡EL CANAL!</td></center></h1></font>
+
+<h2><center><br/>Hola este es mi canal donde encontras bastante contenido y la mayoria sera de trucos de gta,<br/>
+tambien quiero aclarar que todo mi conteni es io todo lo hecho yo, aunque... hay un video donde pongo en la descripcion<br/>
+quien me enseño y yo solo lo copie para que toda la counidad se entere del truco, y una cosas mas, si no estas suscrito <br/> 
+suscribete para que este canal se vuelva uno de los mejores en trucos o mas y eso era todo chaooo!!<br/></center></h2>
+<br/>
+<br/>
+<br/>
+<center><a class="button" href="https://www.youtube.com/channel/UCuRobp1BUD6C0vG1wWqzTSQ?view_as=subscriber">Suscribirse</a></center>
+
+
+</body>
+</htlm> 

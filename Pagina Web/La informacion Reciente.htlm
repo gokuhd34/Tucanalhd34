@@ -1,0 +1,141 @@
+<html>
+<head>
+<title>La Informacion Reciente - Web</title>
+<style type="text/css">
+
+* {
+padding:0px;
+magin:0px;
+}
+
+#header {
+margin:auto;
+width:256px;
+font-famili:Grobold;
+}
+
+ul, ol {
+list-style:none;
+}
+
+.nav li a {
+background-color:#000;
+color:#fff;
+text-decoration:none;
+padding:10px 15px;
+display:block;
+}
+
+.nav li a:hover {
+background-color:#0496dd;
+}
+
+.nav > li {
+float:left;
+}
+
+.nav li ul {
+display:none;
+position:absolute;
+min-width:250px;
+}
+
+.nav li:hover > ul {
+display:block;
+}
+
+</style>
+
+<link rel="icon" type="image/ico" href="Logos/Logo.ico">
+</link>
+</head>
+
+<body background="Fondo4.jpg">
+<center><img src="Foto5.jpg"></center>
+
+<div id="header">
+
+<ul class="nav">
+<li><a href="Inicio.htlm">Inicio</a></li>
+
+<li><a href="">Acerca de</a>
+<ul>
+<li><a href="El Canal.htlm">El Canal</a></li>
+<li><a href="La informacion Reciente.htlm">La Informacion Reciente</a></li>
+<li><a href="Con que Grabro.htlm">¿Con que grabo?</a></li>
+</ul>
+</li>
+
+<li><a href="">Contactos</a>
+<ul>
+<li><a href="Gmail.htlm">Gmail</a></li>
+<li><a href="Youtube.htlm">Youtube</a></li>
+<li><a href="">Proximamente</a></li>
+</ul>
+</li>
+
+</div>
+
+<link rel="stylesheet" href="fuentes.css">
+<br/>
+<br/>
+<br/>
+<br/>
+<h1><font color="#0496dd"><center><td>¡La Informacion Reciente!</td></center></h1></font>
+
+<h2><center><br/>Hola muy buenas chicos en este video enseño 3 trucos de gta online que te ayudaran<br/>
+un poco en la vida cotidiana de gta el 2do truco sirve para la campaña, tambien hay un truco para sorprender a<br/>
+tus amigos si quieren ir al video pues clickeen abajo para ir a ese video!!<br/></center></h2>
+<br/>
+<center><a class="button" href="https://www.youtube.com/watch?v=BpwjHlxpxWo">Ir al video</a></center>
+<br/>
+<br/>
+<br/>
+<h2><center><br/><font color="FF7733">Hola muy buenas chicos en este video estoy muy agradecido porque ya llegamos a la cantidad de 50 subs<br/>
+y 1mil visitas y tambien hay un invitado especial que tambien tiene un canal si quieren ir al video tienen<br/>
+que clickear en el boton de abajo para ir a ese video!!<br/></center></h2></font>
+<br/>
+<center><a class="button" href="https://www.youtube.com/watch?v=AqRimMxKNp0">Ir al video</a></center>
+<br/>
+<br/>
+<br/>
+<h2><center><br/><font color="008080">Hola muy buenas chicos en este video enseño a como tener el traje<br/>
+de basurero y es el mismo procedimiento que el traje de policia pero con otra configuracion<br/>
+si quieren ver el video pueden undir click abajo para ir a ese video!!<br/></center></h2></font>
+<br/>
+<center><a class="button" href="https://www.youtube.com/watch?v=Lx_1zmPYN00">Ir al video</a></center>
+<br/>
+<br/>
+<br/>
+<h2><center><br/><font color="#008000">Hola muy buenas chicos en este video enseño a como descargar rocket league<br/>
+crackeado y sin un dlc porque no tenia ni idea de como actualizarlo si quieren ver el video pueden undir click abajo<br/>
+para ir a ese video!!<br/></center></h2></font>
+<br/>
+<center><a class="button" href="https://www.youtube.com/watch?v=PKbcS1OJC-E&t=15s">Ir al video</a></center>
+<br/>
+<br/>
+<br/>
+<h2><center><br/><font color="yellow">Hola este es la informacion reciente, como pueden ver en este video que subi es el de como<br/>
+descargar resident evil 4 para pc y como conectar un mando de cualquier consola con programa llamdo "ScpServer"<br/>
+ese progra de verdad sirve y bueno chicos para los que quieran ver el video solamente tiene que ir a clikear<br/> 
+el boton de abajo para ir al video!!!<br/></center></h2></font>
+<br/>
+<center><a class="button" href="https://www.youtube.com/watch?v=ueJouJ9tCSg">Ir al video</a></center>
+<br/>
+<br/>
+<br/>
+<h2><center><font color="#848484"><br/>En este video hicimos como tener la 2 skin gratis de fortnite per la verdad es que el video no es mio si<br/>
+si pueden ver el la ultima parte de la descripcion esta los derechos de autor entonse si quieren ir al video<br/>
+clicken en el boton para ir a ese video</h2></center><br/></font>
+<br/>
+<center><a class="button" href="https://www.youtube.com/watch?v=tQoteco02Gs&t=28s">Ir al video</a></center>
+<br/>
+<br/>
+<center><font color="#00496d">
+Copyright 2018 Mandame un mesaje via 
+<a href="mailto:https://www.google.com/gmail/">Gmail</a> a gokuhd124@gmail.com
+</ceneter></font>
+
+
+</body>
+</htlm> 

@@ -1,0 +1,103 @@
+<html>
+<head>
+<title>¿Con Que Grabo? - Web</title>
+<style type="text/css">
+
+* {
+padding:0px;
+magin:0px;
+}
+
+#header {
+margin:auto;
+width:256px;
+font-famili:Grobold;
+}
+
+ul, ol {
+list-style:none;
+}
+
+.nav li a {
+background-color:#000;
+color:#fff;
+text-decoration:none;
+padding:10px 15px;
+display:block;
+}
+
+.nav li a:hover {
+background-color:#0496dd;
+}
+
+.nav > li {
+float:left;
+}
+
+.nav li ul {
+display:none;
+position:absolute;
+min-width:250px;
+}
+
+.nav li:hover > ul {
+display:block;
+}
+
+</style>
+
+<link rel="icon" type="image/ico" href="Logos/Logo.ico">
+</link>
+</head>
+
+<body background="Fondo5.jpg">
+<center><img src="Foto6.jpg"></center>
+
+<div id="header">
+
+<ul class="nav">
+<li><a href="Inicio.htlm">Inicio</a></li>
+
+<li><a href="">Acerca de</a>
+<ul>
+<li><a href="El Canal.htlm">El Canal</a></li>
+<li><a href="La informacion Reciente.htlm">La Informacion Reciente</a></li>
+<li><a href="">¿Con que grabo?</a></li>
+</ul>
+</li>
+
+<li><a href="">Contactos</a>
+<ul>
+<li><a href="Gmail.htlm">Gmail</a></li>
+<li><a href="Youtube.htlm">Youtube</a></li>
+<li><a href="">Proximamente</a></li>
+</ul>
+</li>
+
+</div>
+
+<link rel="stylesheet" href="fuentes.css">
+<br/>
+<br/>
+<br/>
+<br/>
+<h1><font color="#0496dd"><center><td>¿CON QUE GRABO?</td></center></h1></font>
+
+<h2><center><br/>Hola para que sepan conque grabo les voy a decir y tambien are un video de eso,<br/>
+grabo con Camtasia Studio 8 para el escritori y para los gameplays uso fraps, tambien si quiero grabar<br/>
+la pantlla de la tv o para grabar un gameplay de ps3 uso un celular y un tipode luego edito el video haciendo<br/> 
+que se vea solo la pantalla y listo ya tengo mis video dejare los links de los programas!!<br/></center></h2>
+<br/>
+<br/>
+<br/>
+<center><a class="button" href="http://www.mediafire.com/file/9bf9970axuw9d13/Camtasia%20Studio%208%20Full%20espa%F1ol%20TutosRoberto.rar">Camtasia Studio 8</a><br/><br/><a class="button" href="http://www.mediafire.com/file/d1241smbeo6l4yu/Fraps%202016%20iTutosPC.exe">Fraps</a></center>
+<br/>
+<br/> 
+<center><font color="#00496d">
+Copyright 2018 Mandame un mesaje via 
+<a href="mailto:https://www.google.com/gmail/">Gmail</a> a gokuhd124@gmail.com
+</ceneter></font>
+
+
+</body>
+</htlm> 
